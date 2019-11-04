@@ -1,3 +1,6 @@
-class file1
+class hello
 {
+	public static void main()
+	{
+	}
 }
